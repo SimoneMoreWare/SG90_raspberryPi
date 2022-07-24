@@ -2,6 +2,7 @@
 Come utilizzare un servomotore SG90 su Raspberry Pi
 
 Il pinout del servo motore è il seguente:
+
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2022/02/fa19a830e604aaa2ac71ea4005534440.jpg?w=631&ssl=1)
 
 Materiali da utilizzare:
